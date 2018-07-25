@@ -1,4 +1,4 @@
-##long-concat.praat - Iteratively pastes together groups of sound objects
+##LongConcat.praat - Iteratively pastes together groups of sound objects
 ##=========================
 ##For each unique combination of sound objects according to their respective groups and the groups' order
 ##this script creates one sound file composed of those sound objects concatenated together.
