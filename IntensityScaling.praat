@@ -1,3 +1,6 @@
+##IntensityScaling.praat - Automatically scales the intensity of a desired portion of a Sound Object to user-specified parameters
+##======================
+
 ##Select sound object and interval bounds
 pause Select Sound Object 
 sound$ = selected$("Sound",1)
